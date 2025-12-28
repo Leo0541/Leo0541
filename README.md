@@ -22,18 +22,93 @@ I enjoy working on structured projects, writing clean code, and improving existi
 
 ---
 
-## 🚀 Tech Stack
+## 🧑‍💻 Languages
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64"/></a>
+        <p><b>HTML</b></p>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64"/></a>
+        <p><b>CSS</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64"/></a>
+        <p><b>JavaScript</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64"/></a>
+        <p><b>TypeScript</b></p>
+      </td>
+      <td align="center">
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="64"/></a>
+        <p><b>TailwindCSS</b></p>
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/></a>
+        <p><b>React</b></p>
+      </td>
+      <td align="center">
+        <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="64"/></a>
+        <p><b>Redux</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/></a>
+        <p><b>Python</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/></a>
+        <p><b>Java</b></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## ⚙️ Tools & Platforms
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64"/></a>
+        <p><b>Node.js</b></p>
+      </td>
+      <td align="center">
+        <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64"/></a>
+        <p><b>Express.js</b></p>
+      </td>
+      <td align="center">
+        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64"/></a>
+        <p><b>Next.js</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64"/></a>
+        <p><b>MongoDB</b></p>
+      </td>
+      <td align="center">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/></a>
+        <p><b>Git</b></p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64"/></a>
+        <p><b>GitHub</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/></a>
+        <p><b>Docker</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64"/></a>
+        <p><b>Figma</b></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### ☁️ Interests
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -58,16 +133,7 @@ I enjoy working on structured projects, writing clean code, and improving existi
 
 ## 🌍 Connect with Me
 
-- 💻 GitHub: https://github.com/Leo0541
+- 💻 GitHub: [https://github.com/Leo0541](https://github.com/Leo0541)  
 - 📫 Open to collaborations, ideas and tech discussions
-
----
-
-## ✨ Personal Motto | Motto Personale
-
-> **"Build. Break. Learn. Repeat."**  
-> **"Costruisci. Rompi. Impara. Ripeti."**
-
----
 
 ⭐ If you like my work, consider giving a star to my repositories!
