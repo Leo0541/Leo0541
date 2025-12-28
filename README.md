@@ -7,8 +7,7 @@
 ---
 
 ## 🧠 About Me
-<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="24" height="16" alt="EN"/> **English**  
-I am a web developer with a strong technical foundation and a continuous learning mindset.  
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="24" height="16" alt="EN"/> **English** I am a web developer with a strong technical foundation and a continuous learning mindset.  
 I enjoy working on structured projects, writing clean code, and improving existing architectures.
 
 - 🔭 Focus on real and scalable projects
@@ -18,8 +17,7 @@ I enjoy working on structured projects, writing clean code, and improving existi
 
 ##
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="24" height="16" alt="IT"/> **Italiano**  
-Sono uno sviluppatore web con una solida base tecnica e una mentalità orientata alla crescita continua.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="24" height="16" alt="IT"/> **Italiano** Sono uno sviluppatore web con una solida base tecnica e una mentalità orientata alla crescita continua.  
 Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare architetture esistenti.
 
 - 🔭 Focus su progetti reali e scalabili  
@@ -30,6 +28,8 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 ---
 
 ## 🧑‍💻 Languages
+
+## 🧑‍💻 Languages & Technologies
 
 <table>
   <tbody>
@@ -51,16 +51,12 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
         <p><b>TypeScript</b></p>
       </td>
       <td align="center">
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="64"/></a>
-        <p><b>TailwindCSS</b></p>
-      </td>
-      <td align="center">
         <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/></a>
         <p><b>React</b></p>
       </td>
       <td align="center">
-        <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="64"/></a>
-        <p><b>Redux</b></p>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="64"/></a>
+        <p><b>Tailwind</b></p>
       </td>
       <td align="center">
         <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/></a>
@@ -76,38 +72,48 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 
 ---
 
-## ⚙️ Tools & Platforms
+## ⚙️ Tools, Frameworks & Libraries
+
+## ⚙️ Tools, Frameworks & Libraries
 
 <table>
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64"/></a>
+        <p><b>Next.js</b></p>
+      </td>
+      <td align="center">
+        <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="64"/></a>
+        <p><b>Redux</b></p>
+      </td>
+       <td align="center">
+        <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="64"/></a>
+        <p><b>Zustand</b></p>
+      </td>
+      <td align="center">
+        <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="64"/></a>
+        <p><b>Socket.io</b></p>
+      </td>
+      <td align="center">
         <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64"/></a>
         <p><b>Node.js</b></p>
       </td>
       <td align="center">
-        <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="64"/></a>
-        <p><b>Express.js</b></p>
-      </td>
-      <td align="center">
-        <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64"/></a>
-        <p><b>Next.js</b></p>
+        <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="64"/></a>
+        <p><b>Prisma</b></p>
       </td>
       <td align="center">
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64"/></a>
         <p><b>MongoDB</b></p>
       </td>
       <td align="center">
-        <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/></a>
-        <p><b>Git</b></p>
-      </td>
-      <td align="center">
-        <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64"/></a>
-        <p><b>GitHub</b></p>
-      </td>
-      <td align="center">
         <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/></a>
         <p><b>Docker</b></p>
+      </td>
+      <td align="center">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/></a>
+        <p><b>Git</b></p>
       </td>
       <td align="center">
         <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64"/></a>
@@ -116,6 +122,31 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
     </tr>
   </tbody>
 </table>
+
+---
+
+## 📚 Currently Learning
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="64"/>
+        <p><b>AWS</b></p>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64"/>
+        <p><b>Kubernetes</b></p>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="64"/>
+        <p><b>GoLang</b></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### ☁️ Interests
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
