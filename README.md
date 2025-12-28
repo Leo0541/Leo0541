@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leo | Ciao, sono Leo
+# Hi, Leo0541 there 👋🏼
 
 🇮🇹 **Sviluppatore con esperienza intermedia (Medium level)**, appassionato di tecnologia, automazione e sviluppo software moderno.  
 🇬🇧 **Medium-level developer**, passionate about technology, automation, and modern software development.
