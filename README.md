@@ -1,19 +1,26 @@
 # Hi, Leo0541 there 👋🏼
 
-🇮🇹 **Sviluppatore con esperienza intermedia (Medium level)**, appassionato di tecnologia, automazione e sviluppo software moderno.  
-🇬🇧 **Medium-level developer**, passionate about technology, automation, and modern software development.
+🇬🇧 **Web developer**, passionate about technology, automation, and modern software development.
+
+🇮🇹 **Sviluppatore web**, appassionato di tecnologia, automazione e sviluppo software moderno.  
 
 ---
 
-## 🧠 About Me | Chi sono
-
-🇮🇹  
-Sono uno sviluppatore con una solida base tecnica e una mentalità orientata alla crescita continua.  
-Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare architetture esistenti.
-
-🇬🇧  
-I am a medium-level developer with a strong technical foundation and a continuous learning mindset.  
+## 🧠 About Me
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="24" height="16" alt="EN"/> **English**  
+I am a web developer with a strong technical foundation and a continuous learning mindset.  
 I enjoy working on structured projects, writing clean code, and improving existing architectures.
+
+- 🔭 Focus on real and scalable projects
+- 🌱 Continuous improvement of performance and best practices
+- 🤝 Open-source collaborations and team-oriented work
+- 🎯 Goal: become a senior-level developer
+
+##
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="24" height="16" alt="IT"/> **Italiano**  
+Sono uno sviluppatore web con una solida base tecnica e una mentalità orientata alla crescita continua.  
+Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare architetture esistenti.
 
 - 🔭 Focus su progetti reali e scalabili  
 - 🌱 Miglioramento continuo di performance e best practices  
