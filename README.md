@@ -27,8 +27,6 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 
 ---
 
-## 🧑‍💻 Languages
-
 ## 🧑‍💻 Languages & Technologies
 
 <table>
@@ -71,8 +69,6 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 </table>
 
 ---
-
-## ⚙️ Tools, Frameworks & Libraries
 
 ## ⚙️ Tools, Frameworks & Libraries
 
