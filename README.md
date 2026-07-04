@@ -1,29 +1,27 @@
 # Hi, Leo0541 there 👋🏼
 
-🇬🇧 **Web developer**, passionate about technology, automation, and modern software development.
+🇬🇧 **Full-Stack & Mobile Developer**, passionate about technology, automation, high-performance software, and ecosystem design.
 
-🇮🇹 **Sviluppatore web**, appassionato di tecnologia, automazione e sviluppo software moderno.  
+🇮🇹 **Sviluppatore Full-Stack & Mobile**, appassionato di tecnologia, automazione, software ad alte prestazioni e design di ecosistemi.  
 
 ---
 
 ## 🧠 About Me
-<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="24" height="16" alt="EN"/> **English** I am a web developer with a strong technical foundation and a continuous learning mindset.  
-I enjoy working on structured projects, writing clean code, and improving existing architectures.
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="24" height="16" alt="EN"/> **English** I am a developer with a strong technical foundation in web applications and mobile ecosystem development. I thrive on building structured architectures, writing highly optimized code, and crafting premium, high-performance user experiences.
 
-- 🔭 Focus on real and scalable projects
-- 🌱 Continuous improvement of performance and best practices
-- 🤝 Open-source collaborations and team-oriented work
-- 🎯 Goal: become a senior-level developer
+- 🔭 Focus on scalable web architectures and native mobile apps
+- 🌱 Continuous improvement of performance, clean code, and security best practices
+- 🤝 Open-source collaborations and team-oriented production
+- 🎯 Goal: become a senior-level architect and elite developer
 
 ##
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="24" height="16" alt="IT"/> **Italiano** Sono uno sviluppatore web con una solida base tecnica e una mentalità orientata alla crescita continua.  
-Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare architetture esistenti.
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="24" height="16" alt="IT"/> **Italiano** Sono uno sviluppatore con una solida base tecnica focalizzata su applicazioni web ed ecosistemi mobile. Lavoro sulla costruzione di architetture strutturate, ottimizzazione del codice ed esperienze utente premium ad alte prestazioni.
 
-- 🔭 Focus su progetti reali e scalabili  
-- 🌱 Miglioramento continuo di performance e best practices  
-- 🤝 Collaborazioni open-source e team-oriented  
-- 🎯 Obiettivo: diventare senior-level developer
+- 🔭 Focus su architetture web scalabili e app mobile native
+- 🌱 Miglioramento continuo di performance, codice pulito e best practices di sicurezza
+- 🤝 Collaborazioni open-source e produzione orientata al team
+- 🎯 Obiettivo: diventare senior-level architect ed elite developer
 
 ---
 
@@ -33,36 +31,32 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64"/></a>
-        <p><b>HTML</b></p>
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64"/></a>
-        <p><b>CSS</b></p>
-      </td>
-      <td align="center">
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64"/></a>
-        <p><b>JavaScript</b></p>
-      </td>
-      <td align="center">
         <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64"/></a>
         <p><b>TypeScript</b></p>
       </td>
       <td align="center">
+        <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="64"/></a>
+        <p><b>Swift</b></p>
+      </td>
+      <td align="center">
         <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64"/></a>
-        <p><b>React</b></p>
+        <p><b>React / Native</b></p>
       </td>
       <td align="center">
         <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="64"/></a>
         <p><b>Tailwind</b></p>
       </td>
       <td align="center">
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64"/></a>
+        <p><b>JavaScript</b></p>
+      </td>
+      <td align="center">
         <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/></a>
         <p><b>Python</b></p>
       </td>
       <td align="center">
-        <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/></a>
-        <p><b>Java</b></p>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64"/></a>
+        <p><b>HTML5 / CSS3</b></p>
       </td>
     </tr>
   </tbody>
@@ -76,20 +70,20 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
   <tbody>
     <tr>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="64"/></a>
+        <p><b>SwiftUI / UIKit</b></p>
+      </td>
+      <td align="center">
         <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="64"/></a>
         <p><b>Next.js</b></p>
       </td>
       <td align="center">
-        <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="64"/></a>
-        <p><b>Redux</b></p>
-      </td>
-       <td align="center">
-        <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="64"/></a>
-        <p><b>Zustand</b></p>
+        <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64"/></a>
+        <p><b>Supabase</b></p>
       </td>
       <td align="center">
-        <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="64"/></a>
-        <p><b>Socket.io</b></p>
+        <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="64"/></a>
+        <p><b>Zustand</b></p>
       </td>
       <td align="center">
         <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64"/></a>
@@ -98,10 +92,6 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
       <td align="center">
         <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="64"/></a>
         <p><b>Prisma</b></p>
-      </td>
-      <td align="center">
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64"/></a>
-        <p><b>MongoDB</b></p>
       </td>
       <td align="center">
         <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/></a>
@@ -121,22 +111,21 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Expanding
 
 <table>
   <tbody>
-    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="64"/>
         <p><b>AWS</b></p>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64"/>
-        <p><b>Kubernetes</b></p>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="64"/>
         <p><b>GoLang</b></p>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/></a>
+        <p><b>Docker</b></p>
       </td>
     </tr>
   </tbody>
@@ -145,9 +134,12 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 ---
 
 ### ☁️ Interests
+![Mobile Dev](https://img.shields.io/badge/Mobile_Development-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF007F?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge)
 
 ---
 
@@ -168,6 +160,6 @@ Lavoro su progetti strutturati, mi piace scrivere codice pulito e migliorare arc
 ## 🌍 Connect with Me
 
 - 💻 GitHub: [https://github.com/Leo0541](https://github.com/Leo0541)  
-- 📫 Open to collaborations, ideas and tech discussions
+- 📫 Open to collaborations, app ideas and premium software development discussions
 
 ⭐ If you like my work, consider giving a star to my repositories!
