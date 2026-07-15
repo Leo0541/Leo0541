@@ -115,6 +115,7 @@
 
 <table>
   <tbody>
+    <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="64"/>
         <p><b>AWS</b></p>
@@ -124,8 +125,18 @@
         <p><b>GoLang</b></p>
       </td>
       <td align="center">
-        <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/></a>
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/>
+        </a>
         <p><b>Docker</b></p>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64"/>
+        <p><b>PHP</b></p>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/>
+        <p><b>Python</b></p>
       </td>
     </tr>
   </tbody>
@@ -138,8 +149,8 @@
 ![Web Dev](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF007F?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-FF007F?style=for-the-badge&logo=figma&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
