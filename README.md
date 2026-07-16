@@ -170,7 +170,10 @@
 
 ## 🌍 Connect with Me
 
-- 💻 GitHub: [https://github.com/Leo0541](https://github.com/Leo0541)  
+- 💾 Portfolio: [https://leonardocalisesi.netlify.app](https://leonardocalisesi.netlify.app)
+- 📧 Email: [leonardocalisesi@gmail.com](mailto:leonardocalisesi@gmail.com)
+- 🟣 Discord: [Leo_0541](https://discord.com/channels/@me)
+- 💻 GitHub: [https://github.com/Leo0541](https://github.com/Leo0541)
 - 📫 Open to collaborations, app ideas and premium software development discussions
 
 ⭐ If you like my work, consider giving a star to my repositories!
